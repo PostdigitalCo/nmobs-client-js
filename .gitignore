@@ -79,4 +79,8 @@ node_modules/
 
 /dist/index.html
 
+/dist/nmobs.js
+
+/dist/display.css
+
 gulpfile.js
