@@ -13,29 +13,25 @@ NMOBS Client TAG
 
 Aşağıdaki alanları siteye uygun biçimde ekleyin.
 
-> **Standar Banner 320x50**
+**Standar Banner 320x50**
 
-> `<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="320x50" data-adtype="dynamic"></div>`
+	`<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="320x50" data-adtype="dynamic"></div>`
 
-----------
-> **MRE 300x250**
->
-> `<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="300x250" data-adtype="dynamic"></div>`
+**MRE 300x250**
 
-----------
-> **Masthead 320x100**
->
-> `<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="320x100" data-adtype="dynamic"></div>`
+	 `<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="300x250" data-adtype="dynamic"></div>`
 
-----------
-> **Fullpage 320x480**
->
-> `<div class="nmobs" data-adid="[MOPUB ID]" data-adtype="fullpage"></div>`
+**Masthead 320x100**
 
-----------
-> **Sticky 320x50**
->
-> `<div class="nmobs" data-adid="[MOPUB ID]" data-adtype="sticky"></div>`
+	`<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="320x100" data-adtype="dynamic"></div>`
+
+**Fullpage 320x480**
+
+	`<div class="nmobs" data-adid="[MOPUB ID]" data-adtype="fullpage"></div>`
+
+**Sticky 320x50**
+
+	`<div class="nmobs" data-adid="[MOPUB ID]" data-adtype="sticky"></div>`
 
 ## Adım 3 : Kütüphane
 
