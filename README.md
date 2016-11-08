@@ -36,7 +36,7 @@ Aşağıdaki alanları siteye uygun biçimde ekleyin.
 
 ## Adım 3 : Kütüphane
 
-Aşağıdaki satırı tüm sayfalarınızda **1 adet olacak şekilde** `<body>` tag'inin sonuna gelecek şekilde ekleyin.
+Aşağıdaki satırı tüm sayfalarınızda **1 adet olacak şekilde** `<body>` tag'inin sonuna ekleyin.
 
     <script src="//campaign.nmobs.com/nmobs.js" type="application/javascript"></script>
 
