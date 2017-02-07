@@ -51,7 +51,7 @@ Aşağıdaki satırı tüm sayfalarınızda **1 adet olacak şekilde** `<body>` 
 
 Aşağıdaki kütüphaneleri tüm sayalarınız da `<head></head>` tagleri arasına yerleştirin.
 
-    <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js”></script>
+    <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
 
 ### **Google Adx** *(Opsiyonel)*
