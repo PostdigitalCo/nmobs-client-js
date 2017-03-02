@@ -14,7 +14,7 @@ NMOBS Client TAG
 Aşağıdaki alanları siteye uygun biçimde ekleyin.
 *[MOPUB ID] alanlarını size gönderilen mopub id leri ile değiştirmelisiniz.*
 
-**Standar Banner 320x50**
+**Standart Banner 320x50**
 
 	<div class="nmobs" data-adid="[MOPUB ID]" data-adsize="320x50" data-adtype="dynamic"></div>
 
